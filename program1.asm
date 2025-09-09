@@ -1,4 +1,4 @@
-; Hello World in NASM assembly
+; Hello World in NASM assembly 
 
 global _start           ; expose program entry point
 
